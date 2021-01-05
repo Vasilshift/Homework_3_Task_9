@@ -3,10 +3,12 @@ using namespace std;
 
 int main() {
 		
-	int x, i, sum = 0, j = 0, d = 0;
-	long long sred;
+	int x, i, j = 0, d = 0;
+	float sum = 0;
+	float sred;
 	cout << "Please, enter the value: ";
 	cin >> x;
+	cout << endl;
 	
 	
 	for (i = 0; x > 0; i++) {
